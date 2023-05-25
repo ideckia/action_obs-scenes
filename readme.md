@@ -1,4 +1,4 @@
-# [BETA] Action for [ideckia](https://ideckia.github.io/): obsscenes
+# [BETA] Action for [ideckia](https://ideckia.github.io/): obs-scenes
 
 ## Description
 
